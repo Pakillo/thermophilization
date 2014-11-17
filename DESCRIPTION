@@ -1,17 +1,16 @@
-Package: template
-Title: Generic template for research projects structured as R packages.
-Version: 0.2-3
-Authors@R: "Francisco Rodriguez-Sanchez <f.rodriguez.sanc@gmail.com> [aut, cre]"
-Description: This package works as a template for new research
-    projects, under the idea of having everything (data, R scripts, functions
-    and manuscripts) contained in the same package to facilitate collaboration
-    and promote reproducibility.
+Package: thermophilization
+Title: Analysis of changes in biotic community structure in relation to climate change.
+Version: 0.1
+Authors@R: "Francisco Rodriguez-Sanchez <f.rodriguez.sanc@gmail.com> [aut, cre]", 
+    "Pieter De Frenne [aut]".
+Description: Analysis of changes in biotic community structure in relation to climate change, 
+    following Rodriguez-Sanchez et al. (2012) and De Frenne et al. (2013).
 Depends:
     R (>= 3.1.1)
-License: CC0
+License: CC-BY
 LazyData: true
-URL: https://github.com/Pakillo/template
-BugReports: https://github.com/Pakillo/template/issues
+URL: https://github.com/Pakillo/thermophilization
+BugReports: https://github.com/Pakillo/thermophilization/issues
 VignetteBuilder: knitr
 Imports:
     knitr (>= 1.5),

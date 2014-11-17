@@ -1,14 +1,12 @@
-#' template package
+#' thermophilization package
 #'
-#' Generic template for research projects structured as R packages.
-#' This package works as a template for new research projects,
-#' under the idea of having everything (data, R scripts, functions and manuscripts)
-#' contained in the same package to promote reproducibility.
+#' Analysis of changes in biotic community structure in relation to climate change, 
+#' following [Rodriguez-Sanchez et al. (2012)](http://www.nature.com/nclimate/journal/v2/n9/full/nclimate1667.html) 
+#' and [De Frenne et al. (2013)](http://www.pnas.org/content/110/46/18561.abstract).
 #'
-#' @name template-package
+#' @name thermophilization-package
 #' @docType package
-#' @author Francisco Rodriguez-Sanchez
+#' @author Francisco Rodriguez-Sanchez & Pieter De Frenne.
 #' @keywords package
-#' @details For detailed steps on how to use the package see \url{https://github.com/Pakillo/template/blob/master/README.md}.
 #'
 NULL
